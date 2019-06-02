@@ -1,4 +1,4 @@
-# site-redirect-pilab
+# Site Redirect - Pi Lab
 Bludit Plugin - Set site to redirect to another URL
 
 This plugin was built for [Pi Lab](https://pilab.dev)
