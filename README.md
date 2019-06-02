@@ -6,7 +6,7 @@ This plugin was built for [Pi Lab](https://pilab.dev)
 Compatibility: 3.9.x
 
 ## How to install a plugin
-1. Download the zip file with the plugin.
+1. Download the latest version from the zips directory.
 2. Uncompress the zip file.
 3. Copy the plugin folder into the folder `/bl-plugins/` on the server.
 
