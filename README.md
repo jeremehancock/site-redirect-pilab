@@ -1,5 +1,5 @@
 # Site Redirect - Pi Lab
-Bludit Plugin - Set site to redirect to another URL
+Bludit Plugin - Redirct your site to another URL. Admin access is still accessible. The frontend is also still accessible for administrators or editors
 
 This plugin was built for [Pi Lab](https://pilab.dev)
 
