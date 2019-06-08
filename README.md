@@ -13,4 +13,4 @@ Compatibility: 3.9.x
 ## How to activate and configure
 1. Go to the **Admin panel**, on the left sidebar go to **Settings > Plugins**.
 2. Look for the plugin on the list and click **Activate**.
-3. Click **Settings** on the plugin list for the plugin.
+3. Click **Settings** on the plugin list for the plugin to configure.
